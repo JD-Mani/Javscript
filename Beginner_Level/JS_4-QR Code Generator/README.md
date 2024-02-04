@@ -6,4 +6,4 @@ I am gonna showing to you how to build a QR Code Generator with javascript. this
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
