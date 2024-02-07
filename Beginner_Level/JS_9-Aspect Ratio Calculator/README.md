@@ -8,4 +8,4 @@ I am gonna showing to you how to code a simple Aspect ratio calculator with java
 
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.png)
