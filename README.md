@@ -11,3 +11,4 @@
 ## JS9 | Aspect Ratio Calculator
 ## JS10 | Weather API
 ## JS12 | Type Test App
+## JS13 | Language Transalator App
