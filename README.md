@@ -12,3 +12,4 @@
 ## JS10 | Weather API
 ## JS12 | Type Test App
 ## JS13 | Language Transalator App
+## JS14 | Crypto Price App
