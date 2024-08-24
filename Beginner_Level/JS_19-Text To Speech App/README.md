@@ -7,4 +7,4 @@ I am gonna showing to you how to code a text to speech app with javascript. this
 Here we have project screenshot :
 
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.JPG)
