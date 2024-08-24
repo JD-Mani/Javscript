@@ -7,4 +7,4 @@ I am gonna showing to you how to code a budget app with javascript. this budget 
 Here we have project screenshot :
 
 
-![screenshot](Screenshot.jpg)
+![screenshot](Screenshot.JPG)
