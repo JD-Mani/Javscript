@@ -6,5 +6,4 @@ I am gonna showing to you how to build a QR Code Reader with javascript. this qr
 # Screenshot
 Here we have project screenshot :
 
-
-![screenshot](Screenshot.jpg)
+![screenshot](Screenshot.JPG)
