@@ -7,4 +7,4 @@ I am gonna showing to you how to code a spin wheel app with javascript. you see 
 Here we have project screenshot :
 
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.JPG)
