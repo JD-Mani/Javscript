@@ -6,4 +6,4 @@ I am gonna showing to you how to code a gradient generator app with javascript. 
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.JPG)
