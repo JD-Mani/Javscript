@@ -19,4 +19,8 @@
 ## JS18 | Budget App
 ## JS19 | Text To Speech App
 ## JS20 | QR Code Reader
+## JS21 | Spin Wheel App
+## JS22 | Gradient Generator
+## JS23 | Guess the Word Game
+## JS24 | Simon Game
 
