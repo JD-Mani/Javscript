@@ -6,4 +6,4 @@ I am gonna showing to you how to code a guess the word game with javascript. thi
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.PNG)
+![screenshot](screenshot.JPG)
