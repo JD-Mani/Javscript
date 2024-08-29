@@ -13,3 +13,9 @@
 ## JS12 | Type Test App
 ## JS13 | Language Transalator App
 ## JS14 | Crypto Price App
+## JS15 | 
+## JS16 | 
+## JS17 |
+## JS18 | 
+## JS19 |
+## JS20 | 
