@@ -13,9 +13,10 @@
 ## JS12 | Type Test App
 ## JS13 | Language Transalator App
 ## JS14 | Crypto Price App
-## JS15 | 
-## JS16 | 
-## JS17 |
-## JS18 | 
-## JS19 |
-## JS20 | 
+## JS15 | ToDo App
+## JS16 | Geometric Art Ganerator
+## JS17 | Snake Game
+## JS18 | Budget App
+## JS19 | Text To Speech App
+## JS20 | QR Code Reader
+
